@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-HIIIIIIIII WORK IS IN PRODUCTION !!!!!!!!!!!!!!!!
-
+HIIIIIIIII WOR/K IS IN PRODUCTION !!!!!!!!!!!!!!!!
+Deadline : 20/08/2026
 
 First, run the development server:
 
